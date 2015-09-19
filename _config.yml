@@ -1,0 +1,11 @@
+# Site settings
+title: Lucia Velasco's Blog
+email: luciavelasco@mayden.co.uk
+description: A blog detailing the progress of my traineeship with Mayden Academy.
+#baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://luciavelasco.com" # the base hostname & protocol for your site
+github_username:  luciavelasco
+
+# Build settings
+markdown: kramdown 
+permalink: /:title
