@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Monday of Week Two At Mayden"
+title:  "Tuesday of Week Two At Mayden"
 date:   2115-09-22
 categories: first project
 author: luciavelasco
