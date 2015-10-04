@@ -7,13 +7,13 @@ author: luciavelasco
 ---
 
 
-Mayden has been a blissful tempest of the most educational kind. I have learnt HTML and CSS (still relevant to those who use 2D monitor based internet) and used it in a range of ways with careful attention to the flexibility of a browser and the ease of its user.
+Mayden had been a blissful tempest of the most educational kind. Lucia had learnt HTML and CSS (still relevant to those who use 2D monitor based internet) and used it in a range of ways with careful attention to the flexibility of a browser and the ease of its user.
 
-All valuable knowledge, granted, but I have found that the most precious source of endless inspiration are the hovering databanks, iArcs, that float around Mayden. iArc stands for Informative Archive.
+All valuable knowledge, granted, but she found that the most precious sources of endless inspiration were the hovering databanks, iArcs, that floated around Mayden. iArc stood for Informative Archive.
 
-Much like - and just as ancient as - a somewhat limited equivalent to the Bots, they are small icosahedrons programmed with choice morsels of information and wisdom from the coders of old (which is invaluable to software built from legacy code). They have the ability to learn and they're brought in to comment on code and ideas for dev lunches, sprint planning and hackdays. Their names are inscribed on the shells.
+Much like - and just as ancient as - a somewhat limited equivalent to the Bots, they were small icosahedrons programmed with choice morsels of information and wisdom from the coders of old (which is invaluable to software built from legacy code). They had the ability to learn selectively and they were brought in to comment on code and on ideas for dev lunches, sprint planning and hack days. Their names were inscribed on the shells.
 
-Now, some might call me a bit eccentric for spending so much time with them but I've found that they've been coded with a few Easter eggs... for instance there's a running joke about rewriting the diary which I still don't quite understand.
+Now, some might call Lucia a bit eccentric for spending so much time with them but she found that they'd been coded with a few Easter eggs... for instance there was a running joke about rewriting the diary which she still didn't quite understand.
 
 
 
