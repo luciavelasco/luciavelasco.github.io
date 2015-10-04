@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "First Week At Mayden"
+title:  "Academy Days: First Week At Mayden"
 date:   2115-09-18
 categories: first project
 author: luciavelasco
 ---
+
 
 `          Good Morning, Lucía. Welcome Back to Mayden Academy.` _The computer is painfully chirpy this morning._ Yawning, Lucia reached for the MindMax security system. Groping air, she promptly headbanged the desk and reached for the antique keyboard. Glowering, she furiously banged her password into the keys. The light in the globular attachment to her primitive "Apple Mac" blinked blandly.
 
