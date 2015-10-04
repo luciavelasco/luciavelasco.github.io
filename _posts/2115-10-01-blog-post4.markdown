@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Academy Days: iArc Dev Tips"
+title:  "Life At The Academy: iArc Dev Tips"
 date:   2115-10-01
-categories: first project
+categories: first project addendums
 author: luciavelasco
 ---
 
